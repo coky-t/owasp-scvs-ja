@@ -1,4 +1,4 @@
-# V2: ソフトウェア部品表 (SBOM) Requirements
+# V2: ソフトウェア部品表 (SBOM) 要件
 
 ## 管理目標
 
