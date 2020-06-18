@@ -8,6 +8,10 @@
 * [OWASP Software Assurance Maturity Model (SAMM)](https://owasp.org/www-project-samm/)
 
 
+## コミュニティプロジェクト
+* [Open Source Security Coalition - Threats, Risks, and Mitigations in the Open Source Ecosystem](https://github.com/Open-Source-Security-Coalition/Open-Source-Security-Coalition/tree/master/publications/threats-risks-mitigations)
+
+
 ## その他
 
 * [InnerSource](https://www.oreilly.com/library/view/adopting-innersource/9781492041863/ch01.html)
