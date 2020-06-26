@@ -12,7 +12,7 @@ Copyright © 2020 The OWASP Foundation.
 
 このドキュメントは [Creative Commons Attribution ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) に基づいてリリースされています。再使用または配布する場合は、他者に対し本著作物のライセンス条項を明らかにする必要があります。
 
-Version 1.0.0-RC.1 (Public Preview), 16 April 2020
+Version 1.0, 25 June 2020
 
 ## プロジェクトリーダー
 
