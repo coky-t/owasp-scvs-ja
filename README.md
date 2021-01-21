@@ -2,6 +2,13 @@
 
 This is the unofficial Japanese translation of the [OWASP Software Component Verification Standard (SCVS)](https://github.com/OWASP/Software-Component-Verification-Standard).
 
+### Originator
+
+- Project Site - <https://owasp.org/www-project-software-component-verification-standard>
+- Project Repository - <https://github.com/OWASP/www-project-software-component-verification-standard>
+- Document Site - <https://owasp-scvs.gitbook.io/scvs>
+- Document Repository - <https://github.com/OWASP/Software-Component-Verification-Standard>
+
 ## OWASP ソフトウェアコンポーネント検証標準 日本語版
 
 * [扉](ja/0x01-Frontispiece.md)
