@@ -1,0 +1,15 @@
+# 目次
+
+* [扉](0x01-Frontispiece.md)
+* [序文](0x02-Preface.md)
+* [SCVS の使用](0x03-Using-SCVS.md)
+* [監査と認定](0x04-Assessment_and_Certification.md)
+* [V1: インベントリ要件](0x10-V1-Inventory.md)
+* [V2: ソフトウェア部品表 (SBOM) 要件](0x11-V2-Software_Bill_of_Materials.md)
+* [V3: ビルド環境要件](0x12-V3-Build_Environment.md)
+* [V4: パッケージ管理要件](0x13-V4-Package_Management.md)
+* [V5: コンポーネント分析要件](0x14-V5-Component_Analysis.md)
+* [V6: 系統および来歴要件](0x15-V6-Pedigree_and_Provenance.md)
+* [ガイダンス: オープンソースポリシー](0x80-Guidance-Open_Source_Policy.md)
+* [付録 A: 用語集](0x90-Appendix-A_Glossary.md)
+* [付録 B: 参考情報](0x91-Appendix-B_References.md)
