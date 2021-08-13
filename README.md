@@ -24,3 +24,11 @@ This is the unofficial Japanese translation of the [OWASP Software Component Ver
 * [ガイダンス: オープンソースポリシー](ja/0x80-Guidance-Open_Source_Policy.md)
 * [付録 A: 用語集](ja/0x90-Appendix-A_Glossary.md)
 * [付録 B: 参考情報](ja/0x91-Appendix-B_References.md)
+
+## License
+
+[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Author (日本語訳)
+
+[Koki Takeyama](https://github.com/coky-t)
